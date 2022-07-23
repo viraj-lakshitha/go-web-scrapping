@@ -1,0 +1,152 @@
+[
+  {
+    "name": "go-web-scrapping",
+    "description": "Web Scrapping using Go Language",
+    "url": "https://github.com/viraj-lakshitha/go-web-scrapping"
+  },
+  {
+    "name": "pwa-from-scratch",
+    "description": "Progressive Web Application using HTML, CSS and JavaScript",
+    "url": "https://github.com/viraj-lakshitha/pwa-from-scratch"
+  },
+  {
+    "name": "pwa-with-react-js",
+    "description": "Progressive Web Applications with React JS",
+    "url": "https://github.com/viraj-lakshitha/pwa-with-react-js"
+  },
+  {
+    "name": "usefetch-react-hook",
+    "description": "Custom made react hook to fetch data from the URL",
+    "url": "https://github.com/viraj-lakshitha/usefetch-react-hook"
+  },
+  {
+    "name": "demo-react-app",
+    "description": "Demo on build and deploy ReactJS application on AWS Amplify",
+    "url": "https://github.com/viraj-lakshitha/demo-react-app"
+  },
+  {
+    "name": "demo-docker-compose",
+    "description": "Demo on docker-compose Using simple ReactJs web application and GoLang REST APIs",
+    "url": "https://github.com/viraj-lakshitha/demo-docker-compose"
+  },
+  {
+    "name": "viraj-lakshitha",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/viraj-lakshitha"
+  },
+  {
+    "name": "devstory-portal",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/devstory-portal"
+  },
+  {
+    "name": "docker-scripts",
+    "description": "Dockerfile (s) for the custom images that are created for personal projects",
+    "url": "https://github.com/viraj-lakshitha/docker-scripts"
+  },
+  {
+    "name": "swiftui-workspace",
+    "description": "My Swift UI Workspace ( Reference: Stanford Spring Course - https://cs193p.sites.stanford.edu/ )",
+    "url": "https://github.com/viraj-lakshitha/swiftui-workspace"
+  },
+  {
+    "name": "TaskAssist",
+    "description": "Task Managing Application using Swift UI 15",
+    "url": "https://github.com/viraj-lakshitha/TaskAssist"
+  },
+  {
+    "name": "nagaa",
+    "description": "NodeJS - Rest API",
+    "url": "https://github.com/viraj-lakshitha/nagaa"
+  },
+  {
+    "name": "automate-testing-using-cypress",
+    "description": "Test automation using Cypress",
+    "url": "https://github.com/viraj-lakshitha/automate-testing-using-cypress"
+  },
+  {
+    "name": "swift-workspace",
+    "description": "My Swift Workspace",
+    "url": "https://github.com/viraj-lakshitha/swift-workspace"
+  },
+  {
+    "name": "swift-algorithms",
+    "description": "Commonly used sequence and collection algorithms for Swift - From Apple Devlopers",
+    "url": "https://github.com/viraj-lakshitha/swift-algorithms"
+  },
+  {
+    "name": "github-circleci-integration",
+    "description": "Simple Nodejs Application with Unit Testing to Integrate with CircleCI tools with Github for Run, Test, Build",
+    "url": "https://github.com/viraj-lakshitha/github-circleci-integration"
+  },
+  {
+    "name": "nodejs-as-be",
+    "description": "NodeJS as BE",
+    "url": "https://github.com/viraj-lakshitha/nodejs-as-be"
+  },
+  {
+    "name": "react-redux",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/react-redux"
+  },
+  {
+    "name": "devstory-services",
+    "description": "DevStory - Backend Services",
+    "url": "https://github.com/viraj-lakshitha/devstory-services"
+  },
+  {
+    "name": "demo-springboot-app",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/demo-springboot-app"
+  },
+  {
+    "name": "test-cicd-pipeline",
+    "description": "Complete CI/CD pipeline by using Github, Jenkins, Heroku and React project.",
+    "url": "https://github.com/viraj-lakshitha/test-cicd-pipeline"
+  },
+  {
+    "name": "mern-stack-dev",
+    "description": "MongoDB ExpressJS ReactJS NodeJS",
+    "url": "https://github.com/viraj-lakshitha/mern-stack-dev"
+  },
+  {
+    "name": "java-theory-code-snippets",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/java-theory-code-snippets"
+  },
+  {
+    "name": "todo_flutter_mobile_app",
+    "description": "ToDo - Daily Task Managing Mobile Application",
+    "url": "https://github.com/viraj-lakshitha/todo_flutter_mobile_app"
+  },
+  {
+    "name": "time-series-analysis-using-lstm",
+    "description": "Long Short-Term Memory (LSTM) - Time Series Analysis Implementation",
+    "url": "https://github.com/viraj-lakshitha/time-series-analysis-using-lstm"
+  },
+  {
+    "name": "flutter-app-dev",
+    "description": "Flutter is an open-source UI software development kit created by Google.",
+    "url": "https://github.com/viraj-lakshitha/flutter-app-dev"
+  },
+  {
+    "name": "covid19-updates-flutter-app",
+    "description": "Covid-19 Updates - Mobile Application using Health Promotion Bureau APIs",
+    "url": "https://github.com/viraj-lakshitha/covid19-updates-flutter-app"
+  },
+  {
+    "name": "public-apis",
+    "description": "A collective list of free APIs",
+    "url": "https://github.com/viraj-lakshitha/public-apis"
+  },
+  {
+    "name": "learn-computer-vision",
+    "description": "Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.",
+    "url": "https://github.com/viraj-lakshitha/learn-computer-vision"
+  },
+  {
+    "name": "ai-whiteboard-using-opencv",
+    "description": "",
+    "url": "https://github.com/viraj-lakshitha/ai-whiteboard-using-opencv"
+  }
+]
